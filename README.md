@@ -10,3 +10,4 @@ A privacy-preserving system that detects phishing emails using federated learnin
 - Evaluation reporting accuracy, precision, recall, F1-score, and ROC-AUC
 
 ## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
